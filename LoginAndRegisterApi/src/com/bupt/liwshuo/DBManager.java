@@ -1,6 +1,5 @@
 package com.bupt.liwshuo;
 
-import com.bupt.liwshuo.utils.DBUtils;
 import net.sf.json.JSONObject;
 import sun.misc.BASE64Encoder;
 
